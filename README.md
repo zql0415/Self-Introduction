@@ -1,5 +1,5 @@
 # Self-Introduction
-# 👋 Hi, I'm Ziqi Li (Kiki) 
+# 👋 Hi, I'm Ziqi Li 
 
 🎯 **Aspiring Data Engineer | Data Analyst | Risk Analyst**  
 📍 Based in Boston, MA  
